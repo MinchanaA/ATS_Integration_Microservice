@@ -129,4 +129,4 @@ If you run the service without a `.env` file, it will automatically enter **Mock
 
 ---
 
-*Certified ATS Integration Solution | 2026*
+
